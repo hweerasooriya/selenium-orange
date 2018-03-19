@@ -3,7 +3,6 @@ package com.testautomation.page.action;
 import com.testautomation.data.LoginData;
 import com.testautomation.page.LogInPage;
 import org.openqa.selenium.JavascriptExecutor;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
